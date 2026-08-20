@@ -1,0 +1,8 @@
+
+# IDE and GitHub metadata
+**/.vscode/
+**/.github/
+
+# Build output and compiled classes
+**/target/*
+*.class
